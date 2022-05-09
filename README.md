@@ -3,7 +3,8 @@
 
 |  #  | Project                                                           | Live Demo                                                         |
 | :-: | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 001 | [拓展卡片](https://github.com/Double-Fan/mini-web-projects/001)   | [Live Demo](https://double-fan.github.io/mini-web-projects/001)   |
+| 001 | [拓展卡片](001)                                                   | [Live Demo](https://double-fan.github.io/mini-web-projects/001)   |
+| 002 | [进度步骤](002)                                                   | [Live Demo](https://double-fan.github.io/mini-web-projects/002)   |
 
 参考于：
 
