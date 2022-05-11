@@ -5,6 +5,7 @@
 | :-: | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
 | 001 | [拓展卡片](001)                                                   | [Live Demo](https://double-fan.github.io/mini-web-projects/001)   |
 | 002 | [进度步骤](002)                                                   | [Live Demo](https://double-fan.github.io/mini-web-projects/002)   |
+| 002 | [进度步骤](003)                                                   | [Live Demo](https://double-fan.github.io/mini-web-projects/003)   |
 
 参考于：
 
