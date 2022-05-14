@@ -7,6 +7,7 @@
 | 002 | [进度步骤](002)                                                   | [(^ _ ^)](https://double-fan.github.io/mini-web-projects/002)   |
 | 003 | [旋转导航](003)                                                   | [(^ _ ^)](https://double-fan.github.io/mini-web-projects/003)   |
 | 004 | [搜索隐藏](004)                                                   | [(^ _ ^)](https://double-fan.github.io/mini-web-projects/004)   |
+| 005 | [模糊加载](005)                                                   | [(^ _ ^)](https://double-fan.github.io/mini-web-projects/005)   |
 
 >参考于：
 > - [50projects50days](https://github.com/bradtraversy/50projects50days)
